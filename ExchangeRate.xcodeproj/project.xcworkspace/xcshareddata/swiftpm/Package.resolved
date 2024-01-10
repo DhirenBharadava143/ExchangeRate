@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "stockcharts",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/denniscm190/StockCharts.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "b9030e1d37306d8d498ae9e81ccab77b446cafb1"
+      }
+    }
+  ],
+  "version" : 2
+}
